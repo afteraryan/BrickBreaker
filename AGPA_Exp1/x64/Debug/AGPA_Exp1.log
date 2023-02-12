@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Pitara\Work\GameDev\Major Projects\Brick Breaker _ OpenGL\BrickBreaker\AGPA_Exp1\main.cpp(65,16): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  AGPA_Exp1.vcxproj -> D:\Pitara\Work\GameDev\Major Projects\Brick Breaker _ OpenGL\BrickBreaker\x64\Debug\BrickBreaker.exe
+          1 file(s) copied.
